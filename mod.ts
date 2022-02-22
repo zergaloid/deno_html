@@ -13,3 +13,4 @@ export function html(
 }
 
 export const css = html;
+export const xml = html;
